@@ -1,0 +1,36 @@
+Jefferson Mendes, Web Developer
+
+Contato
+jeffersonmendes77@hotmail.com
++55(11)976265419
+
+Objetivo
+Estágio
+
+Formação Acadêmica
+Cursando 2° Semestre em Tecnologia em Analise e Desenvolvimento de Sistemas- UNIP
+
+Habilidades
+C
+C++
+HTML
+CSS
+JavaScript
+Github
+Git
+Controle de Versões
+Estrutura de Dados
+Lógica de Programação
+
+Cursos complementares
+Tecnologia da Informação e Comunicação- Senai
+Introdução ao Git e ao Github- Digital Innovation One
+Introdução ao Git e Controle de Versões- Digital Innovation One
+Programação para Internet com HTML5 e CSS3- Digital Innovation One
+Programação para internet com JavaScript- Digital Innovation One
+Contruindo páginas para internet com Bootstrap- Digital Innovation One
+Lógica de Programação essencial- Digital Innovation One 
+Estrutura de dados e algoritimos- Digital Innovation One
+
+Projetos
+https://github.com/jeffersonmendes77
